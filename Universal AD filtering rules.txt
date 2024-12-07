@@ -99,25 +99,6 @@
 ||fems.huya.com^
 ||df.huya.com^
 # Douyu Live
-||danmuproxy.douyu.com^
-||*.wsproxy.douyu.com^
-||*.danmuproxy.douyu.com^
-||dotbeats.douyucdn.cn^
-||slb-p2p.vcloud.ks-live.com^
-||dy2.douyu.com^
-||*.dy2.douyu.com^
-||apic.douyucdn.cn^
-||shark.douyucdn.cn^
-||shark2.douyucdn.cn^
-||wsproxy.douyu.com^
-||pslice.douyucdn.cn^
-||sentry.douyucdn.cn^
-||dotserver.douyucdn.cn^
-||*.wan.douyu.com^
-||yuba.douyu.com^
-||webconf.douyucdn.cn^
-||passport.douyu.com^
-||playweb.douyucdn.cn^
 # Bilibili
 ||data.bilibili.com^
 ||member.bilibili.com^
