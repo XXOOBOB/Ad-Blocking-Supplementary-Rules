@@ -77,7 +77,7 @@
 ||statwup.huya.com^
 ||ylog.huya.com^
 ||df.huya.com^
-||va.huya.com^
+||*.va.huya.com^
 ||udblgn.huya.com^
 ||metric.huya.com^
 ||v-huya-img2.msstatic.com^
