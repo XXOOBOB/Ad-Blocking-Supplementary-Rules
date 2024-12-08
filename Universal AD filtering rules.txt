@@ -96,7 +96,6 @@
 ||s1-static.msstatic.com^
 ||*.ext.huya.com^
 ||business.msstatic.com^
-||fems.huya.com^
 ||df.huya.com^
 # Douyu Live
 ||danmuproxy.douyu.com^
