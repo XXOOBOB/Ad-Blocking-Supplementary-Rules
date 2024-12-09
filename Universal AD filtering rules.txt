@@ -97,6 +97,7 @@
 ||*.ext.huya.com^
 ||business.msstatic.com^
 ||df.huya.com^
+||v-cms-img.huya.com^
 # Douyu Live
 ||danmuproxy.douyu.com^
 ||*.wsproxy.douyu.com^
