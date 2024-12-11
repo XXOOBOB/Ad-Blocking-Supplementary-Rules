@@ -131,6 +131,8 @@
 ||cm.bilibili.com^
 ||activity.hdslb.com^
 ||live.bilibili.com^
+||boss.hdslb.com^
+||bimp.hdslb.com^
 # Tik Tok
 # 58 cities
 # 10086
