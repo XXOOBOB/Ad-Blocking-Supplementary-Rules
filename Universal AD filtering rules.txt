@@ -1,6 +1,6 @@
 # Title:Universal AD filtering rules
 # -------------------------------------
-# time date 2024.12.7
+# time date 2024.12.10
 # Total lines: 127
 # Version: 1.0.1
 ----------------------------------------
