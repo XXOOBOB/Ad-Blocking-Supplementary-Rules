@@ -49,6 +49,9 @@
 ||puncher.dcdn.baidu.com^
 ||fanyi-app.baidu.com^
 # BiYing
+||*.mm.bing.net^
+||www2.bing.com^
+||*.cn.bing.net^
 # QQ Music
 # QQ
 # START
