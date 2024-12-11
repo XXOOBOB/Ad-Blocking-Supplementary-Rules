@@ -55,18 +55,6 @@
 # weixin
 # Counter-war Assistant
 # NetEase Cloud Music
-||st.music.163.com^
-||s*.music.126.net^
-||clientlog3.music.163.com^
-||nstool.netease.com^
-||*.netease.im^
-||interface3.music.163.com^
-||ye.dun.163yun.com^
-||ac.dun.163.com^
-||ac.dun.163yun.com^
-||*.reg.163.com^
-||httpdns.music.163.com^
-||yunxinfw.com^
 # Huya Live
 ||*.cdn.huya.com^
 ||liveapi.huya.com^
