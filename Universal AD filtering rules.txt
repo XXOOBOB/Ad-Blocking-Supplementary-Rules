@@ -120,6 +120,7 @@
 ||dev.coc.10086.cn^
 ||jiguang.coc.10086.cn^
 ||touch.10086.cn^
+||*.cmcc-cs.cn^
 ||img.app.coc.10086.cn^
 # taobao
 # JD
