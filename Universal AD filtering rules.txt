@@ -110,6 +110,26 @@
 ||passport.douyu.com^
 ||playweb.douyucdn.cn^
 # Bilibili
+||api.bilibili.com^
+||message.biliimg.com^
+||*.vc.bilibili.com^
+||passport.bilibili.com^
+||mall.bilibili.com^
+||show.bilibili.com^
+||baselabs.bilibili.com^
+||*.biliapi.net^
+||*.biligame.com^
+||*.nintendo.net^
+||m.bilibili.com^
+||*.live.bilibili.com^
+||mcdn.bilivideo.cn^
+||*.bilivideo.com^
+||*.biligame.net^
+||*.biliapi.net^
+||app.bilibili.com^
+||member.bilibili.com^
+||data.bilibili.com^
+||cm.bilibili.com^
 # Tik Tok
 # 58 cities
 # 10086
