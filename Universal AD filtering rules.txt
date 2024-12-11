@@ -120,7 +120,6 @@
 ||*.biliapi.net^
 ||*.biligame.com^
 ||*.nintendo.net^
-||m.bilibili.com^
 ||*.live.bilibili.com^
 ||mcdn.bilivideo.cn^
 ||*.bilivideo.com^
