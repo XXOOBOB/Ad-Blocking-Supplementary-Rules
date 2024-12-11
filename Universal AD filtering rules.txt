@@ -129,6 +129,8 @@
 ||member.bilibili.com^
 ||data.bilibili.com^
 ||cm.bilibili.com^
+||activity.hdslb.com^
+||live.bilibili.com^
 # Tik Tok
 # 58 cities
 # 10086
