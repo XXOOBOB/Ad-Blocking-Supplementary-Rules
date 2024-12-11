@@ -1,7 +1,7 @@
 # Title:Universal AD filtering rules
 # -------------------------------------
 # time date 2024.12.7
-# Total lines: 
+# Total lines: 127
 # Version: 1.0.1
 ----------------------------------------
 # Google
@@ -150,3 +150,5 @@
 ||*.pddpic.com^
 ||*.pinduoduo.com^
 ||*.pddugc.com^
+# xunlei
+||xluser*-ssl.xunlei.com^
