@@ -71,7 +71,6 @@
 ||*.va.huya.com^
 ||udblgn.huya.com^
 ||metric.huya.com^
-||v-huya-img2.msstatic.com^
 ||aldirect.flv.huya.com^
 ||rel.huya.com^
 ||hydl.huya.com^
@@ -90,7 +89,6 @@
 ||df.huya.com^
 ||v-cms-img.huya.com^
 ||gr.msstatic.com^
-||tx-live-cover.msstatic.com^
 # Douyu Live
 ||danmuproxy.douyu.com^
 ||*.wsproxy.douyu.com^
