@@ -172,6 +172,7 @@
 # pingduoduo
 ||*.pddpic.com^
 ||*.pinduoduo.com^
+# tieba
 ||*.pddugc.com^
 # xunlei
 ||xluser*-ssl.xunlei.com^
