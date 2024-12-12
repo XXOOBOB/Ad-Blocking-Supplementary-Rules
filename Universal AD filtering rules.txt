@@ -82,7 +82,6 @@
 ||adsmind.gdtimg.com^
 ||l.huya.com^
 ||hyext.msstatic.com^
-||a.msstatic.com^
 ||s1-static.msstatic.com^
 ||*.ext.huya.com^
 ||business.msstatic.com^
