@@ -123,7 +123,6 @@
 ||*.live.bilibili.com^
 ||mcdn.bilivideo.cn^
 ||*.bilivideo.com^
-||*.biligame.net^
 ||*.biliapi.net^
 ||app.bilibili.com^
 ||member.bilibili.com^
