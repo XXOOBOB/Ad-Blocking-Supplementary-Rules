@@ -87,8 +87,8 @@
 ||*.ext.huya.com^
 ||business.msstatic.com^
 ||df.huya.com^
-||v-cms-img.huya.com^
-||gr.msstatic.com^
+||v-huya-img2.msstatic.com^
+||tx-live-cover.msstatic.com^
 # Douyu Live
 ||danmuproxy.douyu.com^
 ||*.wsproxy.douyu.com^
