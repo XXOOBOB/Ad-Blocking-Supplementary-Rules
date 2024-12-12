@@ -84,8 +84,6 @@
 ||hyext.msstatic.com^
 ||a.msstatic.com^
 ||s1-static.msstatic.com^
-||*.ext.huya.com^
-||business.msstatic.com^
 ||df.huya.com^
 ||v-huya-img2.msstatic.com^
 ||tx-live-cover.msstatic.com^
