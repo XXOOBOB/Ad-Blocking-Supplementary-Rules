@@ -176,3 +176,6 @@
 # xunlei
 ||xluser*-ssl.xunlei.com^
 # tieba
+||tiebapic.baidu.com^
+||tieba-fe.cdn.bcebos.com^
+||imgsa.baidu.com^
