@@ -107,6 +107,9 @@
 ||webconf.douyucdn.cn^
 ||passport.douyu.com^
 ||playweb.douyucdn.cn^
+||c-yuba.douyucdn.cn^
+||dotab.douyucdn.cn^
+||abvolcapi.douyucdn.cn^
 # Bilibili
 ||api.bilibili.com^
 ||message.biliimg.com^
