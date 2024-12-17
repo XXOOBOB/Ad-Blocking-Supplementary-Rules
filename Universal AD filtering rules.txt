@@ -58,6 +58,10 @@
 # weixin
 # Counter-war Assistant
 # NetEase Cloud Music
+||crash.163.com^
+||api2.music.163.com^
+||a*.music.126.net^
+||interface3.music.163.com.163jiasu.com^
 # Huya Live
 ||*.cdn.huya.com^
 ||liveapi.huya.com^
