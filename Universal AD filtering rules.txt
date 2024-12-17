@@ -138,6 +138,7 @@
 ||boss.hdslb.com^
 ||bimp.hdslb.com^
 # Tik Tok
+||*.douyincdn.com^
 # 58 cities
 # 10086
 ||*.it.10086.cn^
