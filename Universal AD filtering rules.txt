@@ -180,6 +180,9 @@
 ||*.pddugc.com^
 # xunlei
 ||xluser*-ssl.xunlei.com^
+# sougou
+||*.shouji.sogou.com^
+||.tencent-cloud.net^
 # tieba
 ||tiebapic.baidu.com^
 ||tieba-fe.cdn.bcebos.com^
