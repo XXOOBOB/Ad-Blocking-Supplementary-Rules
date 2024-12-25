@@ -40,14 +40,6 @@
 ||wappass.baidu.com^
 ||fc6tn.baidu.com^
 ||ss*.baidu.com^
-||*.bdimg.com^
-||xlab.baidu.com^
-||ms.bdstatic.com^
-||gips*.baidu.com^
-||affimvip.baidu.com^
-||paimgcdn.baidu.com^
-||puncher.dcdn.baidu.com^
-||fanyi-app.baidu.com^
 # BiYing
 ||*.mm.bing.net^
 ||www2.bing.com^
