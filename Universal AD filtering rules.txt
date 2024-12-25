@@ -1,7 +1,7 @@
 # Title:Universal AD filtering rules
 # -------------------------------------
-# time date 2024.12.10
-# Total lines: 146
+# time date 2024.12.25
+# Total lines: 166
 # Version: 1.0.1
 ----------------------------------------
 # Google
