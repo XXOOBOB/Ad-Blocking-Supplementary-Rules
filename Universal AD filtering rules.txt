@@ -46,6 +46,20 @@
 ||*.cn.bing.net^
 # QQ Music
 # QQ
+||wup.imtt.qq.com^
+||yun-hl.3g.qq.com^
+||mdt.qq.com^
+||masdkv6.3g.qq.com^
+||vv.video.qq.com^
+||m.qpic.cn^
+||otheve.beacon.qq.com^
+||public.gdtimg.com^
+||qappcenterv6.3g.qq.com^
+||gdt.qq.com^
+||tdid.m.qq.com^
+||rdelivery.qq.com^
+||qqdata.ab.qq.com^
+||snowflake.qq.com^
 # START
 # weixin
 # Counter-war Assistant
