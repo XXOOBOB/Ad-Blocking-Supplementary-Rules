@@ -118,9 +118,8 @@
 ||*.biligame.com^
 ||*.nintendo.net^
 ||*.live.bilibili.com^
-||mcdn.bilivideo.cn^
+||*.bilivideo.cn^
 ||*.bilivideo.com^
-||*.biliapi.net^
 ||app.bilibili.com^
 ||member.bilibili.com^
 ||data.bilibili.com^
