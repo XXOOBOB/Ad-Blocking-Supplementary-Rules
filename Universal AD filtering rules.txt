@@ -187,7 +187,8 @@
 ||xluser*-ssl.xunlei.com^
 # sougou
 ||*.shouji.sogou.com^
-||.tencent-cloud.net^
+||*.tencent-cloud.net^
+||gateway.sogou.com^
 # tieba
 ||tiebapic.baidu.com^
 ||tieba-fe.cdn.bcebos.com^
