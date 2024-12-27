@@ -23,11 +23,6 @@
 ||mshield.baidu.com^
 ||hmcdn.baidu.com^
 ||vivosec.baidu.com^
-||*.lcs.baidu.com^
-||ossapi.baidu.com^
-||pim.baidu.com^
-||cover.baidu.com^
-||imgsrc.baidu.com^
 # BiYing
 ||*.mm.bing.net^
 ||www2.bing.com^
