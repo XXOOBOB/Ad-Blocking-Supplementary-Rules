@@ -28,11 +28,6 @@
 ||pim.baidu.com^
 ||cover.baidu.com^
 ||imgsrc.baidu.com^
-||hm.baidu.com^
-||gimg*.baidu.com^
-||ot-gdown.baidu.com^
-||sensearch.baidu.com^
-||mbd.baidu.com^
 # BiYing
 ||*.mm.bing.net^
 ||www2.bing.com^
