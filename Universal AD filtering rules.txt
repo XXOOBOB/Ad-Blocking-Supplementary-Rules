@@ -13,16 +13,6 @@
 ||update.googleapis.com^
 # Microsoft
 # Baidu
-||loc.map.baidu.com^
-||opendata.baidu.com^
-||fc-ccimage.baidu.com^
-||sofire-dr.baidu.com^
-||pn.baidu.com^
-||update.baidu.com^
-||userident.baidu.com^
-||mshield.baidu.com^
-||hmcdn.baidu.com^
-||vivosec.baidu.com^
 # BiYing
 ||*.mm.bing.net^
 ||www2.bing.com^
