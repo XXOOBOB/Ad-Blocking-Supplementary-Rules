@@ -33,13 +33,6 @@
 ||ot-gdown.baidu.com^
 ||sensearch.baidu.com^
 ||mbd.baidu.com^
-||afdconf.baidu.com^
-||h2tcbox.baidu.com^
-||*.map.baidu.com^
-||ecrasyn.baidu.com^
-||wappass.baidu.com^
-||fc6tn.baidu.com^
-||ss*.baidu.com^
 # BiYing
 ||*.mm.bing.net^
 ||www2.bing.com^
