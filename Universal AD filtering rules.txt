@@ -47,6 +47,10 @@
 ||crash.163.com^
 ||api2.music.163.com^
 ||a*.music.126.net^
+||xycdn.com^
+||ye.dun.163yun.com^
+||ac.dun.163.com^
+||crash.163.com^
 ||interface3.music.163.com.163jiasu.com^
 # Huya Live
 ||*.cdn.huya.com^
