@@ -18,6 +18,15 @@
 ||www2.bing.com^
 ||*.cn.bing.net^
 # QQ Music
+||p2p.qq.com^
+||otheve.beacon.qq.com^
+||vv.video.qq.com^
+||appcfg.v.qq.com^
+||gdt.qq.com^
+||*.stream.qqmusic.qq.com^
+||h.trace.qq.com^
+||cgi.connect.qq.com^
+||p.tencentmusic.com^
 # QQ
 ||wup.imtt.qq.com^
 ||yun-hl.3g.qq.com^
