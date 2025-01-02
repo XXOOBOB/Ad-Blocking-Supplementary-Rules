@@ -20,7 +20,6 @@
 # QQ Music
 ||p2p.qq.com^
 ||otheve.beacon.qq.com^
-||vv.video.qq.com^
 ||appcfg.v.qq.com^
 ||gdt.qq.com^
 ||*.stream.qqmusic.qq.com^
