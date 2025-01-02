@@ -21,7 +21,6 @@
 ||p2p.qq.com^
 ||otheve.beacon.qq.com^
 ||appcfg.v.qq.com^
-||gdt.qq.com^
 ||*.stream.qqmusic.qq.com^
 ||h.trace.qq.com^
 ||cgi.connect.qq.com^
