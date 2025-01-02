@@ -10,7 +10,7 @@
 ||mtalk.google.com^
 ||alt5-mtalk.google.com^
 ||android.apis.google.com^
-||update.googleapis.com^
+||*.googleapis.com^
 # Microsoft
 # Baidu
 # BiYing
@@ -156,6 +156,9 @@
 ||*.pddpic.com^
 ||*.pinduoduo.com^
 ||*.pddugc.com^
+# mi
+||*.rom.miui.com^
+||*.browser.mi-img.com^
 # xunlei
 ||xluser*-ssl.xunlei.com^
 # sougou
