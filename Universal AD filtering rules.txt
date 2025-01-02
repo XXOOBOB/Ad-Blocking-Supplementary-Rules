@@ -162,11 +162,15 @@
 # mi
 ||*.rom.miui.com^
 ||*.browser.mi-img.com^
+# vivo
+||*.vivo.com.cn^
 # xunlei
 ||xluser*-ssl.xunlei.com^
 # sougou
 ||*.shouji.sogou.com^
 ||*.tencent-cloud.net^
+# Ali
+||*.alicdn.com^
 ||gateway.sogou.com^
 # tieba
 ||tiebapic.baidu.com^
