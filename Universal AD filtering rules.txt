@@ -117,6 +117,9 @@
 ||bimp.hdslb.com^
 # Tik Tok
 ||*.douyincdn.com^
+||*.dailygn.com^
+||*.bytegecko.com^
+||*.douyinliving.com^
 # 58 cities
 # 10086
 ||*.it.10086.cn^
