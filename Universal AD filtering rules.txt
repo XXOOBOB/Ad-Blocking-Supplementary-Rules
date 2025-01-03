@@ -29,7 +29,6 @@
 ||*.stream.qqmusic.qq.com^
 ||h.trace.qq.com^
 ||cgi.connect.qq.com^
-||p.tencentmusic.com^
 # QQ
 ||wup.imtt.qq.com^
 ||yun-hl.3g.qq.com^
