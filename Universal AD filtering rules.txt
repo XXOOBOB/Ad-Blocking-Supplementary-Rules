@@ -13,6 +13,11 @@
 ||*.googleapis.com^
 # Microsoft
 # Baidu
+||fclick.baidu.com^
+||*.cdn.bcebos.com^
+||gips*.baidu.com^
+||sp*.baidu.com^
+||img*.baidu.com^
 # BiYing
 ||*.mm.bing.net^
 ||www2.bing.com^
