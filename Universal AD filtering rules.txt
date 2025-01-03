@@ -29,6 +29,7 @@
 ||*.stream.qqmusic.qq.com^
 ||h.trace.qq.com^
 ||cgi.connect.qq.com^
+||p.tencentmusic.com^
 # QQ
 ||wup.imtt.qq.com^
 ||yun-hl.3g.qq.com^
@@ -45,6 +46,7 @@
 ||qqdata.ab.qq.com^
 ||snowflake.qq.com^
 ||*.cdn-go.cn^
+||ab.qq.com^
 # START
 # weixin
 # Counter-war Assistant
@@ -185,7 +187,6 @@
 ||xluser*-ssl.xunlei.com^
 # sougou
 ||*.shouji.sogou.com^
-||*.tencent-cloud.net^
 # Ali
 ||*.alicdn.com^
 ||gateway.sogou.com^
