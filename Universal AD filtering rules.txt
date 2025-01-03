@@ -179,6 +179,7 @@
 # mi
 ||*.rom.miui.com^
 ||*.browser.mi-img.com^
+||*.micloud.xiaomi.net^
 # vivo
 ||*.vivo.com.cn^
 # xunlei
