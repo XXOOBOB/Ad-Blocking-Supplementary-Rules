@@ -177,6 +177,7 @@
 ||*.pddpic.com^
 ||*.pinduoduo.com^
 ||*.pddugc.com^
+||*.nintendoswitch.cn^
 # mi
 ||*.rom.miui.com^
 ||*.browser.mi-img.com^
