@@ -1,6 +1,6 @@
 # Title:Universal AD filtering rules
 # -------------------------------------
-# time date 2025.1.4
+# time date 2025.1.6
 # Total lines: 166
 # Version: 1.0.1
 ----------------------------------------
@@ -153,6 +153,9 @@
 ||*.cmcc-cs.cn^
 ||img.app.coc.10086.cn^
 # taobao
+||ilce.alicdn.com^
+||*.cloudvideocdn.taobao.com^
+||ugcdn.taobao.com^
 # JD
 ||*.m.jd.com^
 ||sh.jd.com^
