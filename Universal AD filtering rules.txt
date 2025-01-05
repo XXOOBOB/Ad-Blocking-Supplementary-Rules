@@ -189,6 +189,11 @@
 ||*.vivo.com.cn^
 # xunlei
 ||xluser*-ssl.xunlei.com^
+||*.88cdn.com^
+||*.zcjhsdk.com^
+||*.bytescm.com^
+||*.ubixioe.com^
+||*.sandai.net^
 # sougou
 ||*.shouji.sogou.com^
 # Ali
