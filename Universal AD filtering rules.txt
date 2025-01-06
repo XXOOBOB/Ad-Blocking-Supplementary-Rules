@@ -50,10 +50,9 @@
 ||gdt.qq.com^
 ||tdid.m.qq.com^
 ||rdelivery.qq.com^
-||qqdata.ab.qq.com^
+||*.ab.qq.com^
 ||snowflake.qq.com^
 ||*.cdn-go.cn^
-||ab.qq.com^
 # START
 # weixin
 # Counter-war Assistant
