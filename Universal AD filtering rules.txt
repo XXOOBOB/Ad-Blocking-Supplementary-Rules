@@ -30,6 +30,13 @@
 ||h.trace.qq.com^
 ||cgi.connect.qq.com^
 ||p.tencentmusic.com^
+||*.e.qq.com^
+||ad.tencentmusic.com^
+||*.tc.qq.com^
+||*.beacon.qq.com^
+||*.kg.qq.com^
+||*.dl.eccdnx.com^
+||adstats.tencentmusic.com^
 # QQ
 ||wup.imtt.qq.com^
 ||yun-hl.3g.qq.com^
