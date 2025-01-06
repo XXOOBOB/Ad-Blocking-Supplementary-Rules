@@ -183,6 +183,7 @@
 ||*.nintendoswitch.cn^
 # mi
 ||*.rom.miui.com^
+||*.ad.xiaomi.com^
 ||*.browser.mi-img.com^
 ||*.micloud.xiaomi.net^
 # vivo
