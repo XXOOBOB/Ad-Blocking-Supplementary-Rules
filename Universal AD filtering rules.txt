@@ -194,6 +194,7 @@
 ||*.ad.xiaomi.com^
 ||*.browser.mi-img.com^
 ||*.micloud.xiaomi.net^
+||*.market.xiaomi.com^
 # vivo
 ||*.vivo.com.cn^
 # xunlei
@@ -205,9 +206,10 @@
 ||*.sandai.net^
 # sougou
 ||*.shouji.sogou.com^
+||gateway.sogou.com^
+||*.get.sogou.com^
 # Ali
 ||*.alicdn.com^
-||gateway.sogou.com^
 # tieba
 ||tiebapic.baidu.com^
 ||tieba-fe.cdn.bcebos.com^
