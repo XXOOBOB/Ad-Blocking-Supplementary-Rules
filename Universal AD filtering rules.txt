@@ -55,6 +55,8 @@
 ||*.cdn-go.cn^
 # START
 # weixin
+||*.wxqcloud.qq.com^
+||dldir1v6.qq.com^
 # Counter-war Assistant
 # NetEase Cloud Music
 ||crash.163.com^
