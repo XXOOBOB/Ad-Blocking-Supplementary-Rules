@@ -196,7 +196,6 @@
 ||*.micloud.xiaomi.net^
 ||*.market.xiaomi.com^
 # vivo
-||*.vivo.com.cn^
 # xunlei
 ||*.88cdn.com^
 ||*.zcjhsdk.com^
