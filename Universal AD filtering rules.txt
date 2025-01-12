@@ -1,7 +1,7 @@
 # Title:Universal AD filtering rules
 # -------------------------------------
-# time date 2025.1.6
-# Total lines: 166
+# time date 2025.1.12
+# Total lines: 186
 # Version: 1.0.1
 ----------------------------------------
 # Google
@@ -198,7 +198,6 @@
 # vivo
 ||*.vivo.com.cn^
 # xunlei
-||xluser*-ssl.xunlei.com^
 ||*.88cdn.com^
 ||*.zcjhsdk.com^
 ||*.bytescm.com^
