@@ -140,6 +140,7 @@
 ||live.bilibili.com^
 ||boss.hdslb.com^
 ||bimp.hdslb.com^
+||*.chat.bilibili.com^
 # Tik Tok
 ||*.douyincdn.com^
 ||*.dailygn.com^
