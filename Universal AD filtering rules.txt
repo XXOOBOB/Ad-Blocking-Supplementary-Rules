@@ -36,6 +36,9 @@
 ||*.kg.qq.com^
 ||*.dl.eccdnx.com^
 ||adstats.tencentmusic.com^
+||*.helper.qq.com^
+||*.twns.qq.com^
+||dlied5sdk.myapp.com^
 # QQ
 ||wup.imtt.qq.com^
 ||yun-hl.3g.qq.com^
