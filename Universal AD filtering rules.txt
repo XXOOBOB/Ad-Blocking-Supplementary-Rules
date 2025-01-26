@@ -39,6 +39,10 @@
 ||*.helper.qq.com^
 ||*.twns.qq.com^
 ||dlied5sdk.myapp.com^
+||api.tencentmusic.com^
+||music-conf-cdn.y.qq.com^
+||*.streaming.qq.com^
+||*.sginput.qq.com^
 # QQ
 ||wup.imtt.qq.com^
 ||yun-hl.3g.qq.com^
@@ -59,6 +63,7 @@
 # weixin
 ||*.wxqcloud.qq.com^
 ||dldir1v6.qq.com^
+||*.wxlivecdn.com^
 # Counter-war Assistant
 # NetEase Cloud Music
 ||crash.163.com^
@@ -199,6 +204,8 @@
 ||*.micloud.xiaomi.net^
 ||*.market.xiaomi.com^
 # vivo
+||vcode-od.vivo.com.cn^
+||wifi.vivo.com.cn^
 # xunlei
 ||*.88cdn.com^
 ||*.zcjhsdk.com^
