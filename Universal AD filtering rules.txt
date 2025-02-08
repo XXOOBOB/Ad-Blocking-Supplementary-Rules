@@ -156,16 +156,6 @@
 ||*.douyinliving.com^
 # 58 cities
 # 10086
-||*.it.10086.cn^
-||apm.app.coc.10086.cn^
-||h.app.coc.10086.cn^
-||third.app.coc.10086.cn^
-||res.app.coc.10086.cn^
-||wx.10086.cn^
-||.clientaccess.10086.cn^
-||dev.coc.10086.cn^
-||jiguang.coc.10086.cn^
-||touch.10086.cn^
 ||*.cmcc-cs.cn^
 ||img.app.coc.10086.cn^
 # taobao
