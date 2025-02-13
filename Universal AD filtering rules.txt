@@ -59,6 +59,9 @@
 ||*.ab.qq.com^
 ||snowflake.qq.com^
 ||*.cdn-go.cn^
+||tt.cn^
+||beizi.biz^
+||tpstelemetry.tencent.com^
 # START
 # weixin
 ||*.wxqcloud.qq.com^
