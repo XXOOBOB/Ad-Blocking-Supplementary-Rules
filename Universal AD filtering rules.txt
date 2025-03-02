@@ -77,6 +77,8 @@
 ||ye.dun.163yun.com^
 ||ac.dun.163.com^
 ||crash.163.com^
+||*.reg.163.com^
+||*.yunxinfw.com^
 ||interface3.music.163.com.163jiasu.com^
 # Huya Live
 ||*.cdn.huya.com^
