@@ -162,6 +162,14 @@
 # 10086
 ||*.cmcc-cs.cn^
 ||img.app.coc.10086.cn^
+||touch.10086.cn^
+||*.fmcc.com.cn^
+||*.migufun.com^
+||*.cytxl.com.cn^
+||*.it.10086.cn^^
+||*.yun.139.com^
+||*.online-cmcc.cn^
+||*.miguvideo.com^
 # taobao
 ||ilce.alicdn.com^
 ||*.cloudvideocdn.taobao.com^
