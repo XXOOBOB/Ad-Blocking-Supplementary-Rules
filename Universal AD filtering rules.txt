@@ -1,8 +1,8 @@
 # Title:Universal AD filtering rules
 # -------------------------------------
-# time date 2025.1.20
+# time date 2025.3.2
 # Total lines: 183
-# Version: 1.0.1
+# Version: 1.0.2
 ----------------------------------------
 # Google
 ||accounts.google.com^
@@ -171,6 +171,12 @@
 ||*.alipayobjects.com^
 ||*.alipayobjects.com^
 ||*.alibabachengdun.net^
+||*.alibabausercontent.com^
+||*.template.alibaba.com^
+||miniapp-package-zcache.taobao.com^
+||*.alibabachengdun.com^
+||amdc-sibling.alipay.com.cn^
+||acpstatic.cup.com.cn^
 # JD
 ||*.m.jd.com^
 ||sh.jd.com^
