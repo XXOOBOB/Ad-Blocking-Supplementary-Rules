@@ -11,6 +11,7 @@
 ||alt5-mtalk.google.com^
 ||android.apis.google.com^
 ||*.googleapis.com^
+||clients2.google.com^
 # Microsoft
 # Baidu
 ||fclick.baidu.com^
@@ -165,6 +166,11 @@
 ||ilce.alicdn.com^
 ||*.cloudvideocdn.taobao.com^
 ||ugcdn.taobao.com^
+||*.tbcdn.cn^
+||infinite.m.taobao.com^
+||*.alipayobjects.com^
+||*.alipayobjects.com^
+||*.alibabachengdun.net^
 # JD
 ||*.m.jd.com^
 ||sh.jd.com^
