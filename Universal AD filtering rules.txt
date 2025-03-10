@@ -218,6 +218,7 @@
 ||*.browser.mi-img.com^
 ||*.micloud.xiaomi.net^
 ||*.market.xiaomi.com^
+||sdkconfig.xiaomi.com^
 # vivo
 ||vcode-od.vivo.com.cn^
 ||wifi.vivo.com.cn^
