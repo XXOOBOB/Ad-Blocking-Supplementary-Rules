@@ -63,6 +63,7 @@
 ||tt.cn^
 ||beizi.biz^
 ||tpstelemetry.tencent.com^
+||*.map.qq.com^
 # START
 # weixin
 ||*.wxqcloud.qq.com^
