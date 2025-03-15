@@ -18,7 +18,7 @@
 ||*.cdn.bcebos.com^
 ||gips*.baidu.com^
 ||sp*.baidu.com^
-||img*.baidu.com^
+||imgsa.baidu.com^
 # BiYing
 ||*.mm.bing.net^
 ||www2.bing.com^
@@ -243,4 +243,3 @@
 ||tieba-fe.cdn.bcebos.com^
 # other
 ||*.ogjoxfz.com^
-||imgsa.baidu.com^
