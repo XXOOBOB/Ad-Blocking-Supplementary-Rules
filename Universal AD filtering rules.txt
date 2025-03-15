@@ -65,12 +65,15 @@
 ||tpstelemetry.tencent.com^
 ||*.map.qq.com^
 # START
+||api.start.qq.com^
+||cloud.tgpa.qq.com^
 # weixin
 ||*.wxqcloud.qq.com^
 ||dldir1v6.qq.com^
 ||*.wxlivecdn.com^
 # Counter-war Assistant
 # NetEase Cloud Music
+||*.look.163.com^
 ||crash.163.com^
 ||api2.music.163.com^
 ||a*.music.126.net^
@@ -238,4 +241,6 @@
 # tieba
 ||tiebapic.baidu.com^
 ||tieba-fe.cdn.bcebos.com^
+# other
+||*.ogjoxfz.com^
 ||imgsa.baidu.com^
