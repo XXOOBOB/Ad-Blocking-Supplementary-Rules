@@ -44,6 +44,8 @@
 ||music-conf-cdn.y.qq.com^
 ||*.streaming.qq.com^
 ||*.sginput.qq.com^
+||y.gtimg.cn^
+||ts.qq.com^
 # QQ
 ||wup.imtt.qq.com^
 ||yun-hl.3g.qq.com^
@@ -67,6 +69,7 @@
 # START
 ||api.start.qq.com^
 ||cloud.tgpa.qq.com^
+||cwebapi.start.qq.com^
 # weixin
 ||*.wxqcloud.qq.com^
 ||dldir1v6.qq.com^
@@ -176,6 +179,7 @@
 ||*.yun.139.com^
 ||*.online-cmcc.cn^
 ||*.miguvideo.com^
+||dm.wo.com.cn^
 # taobao
 ||ilce.alicdn.com^
 ||*.cloudvideocdn.taobao.com^
@@ -238,6 +242,7 @@
 ||*.get.sogou.com^
 # Ali
 ||*.alicdn.com^
+||dypnsapi.aliyuncs.com^
 # tieba
 ||tiebapic.baidu.com^
 ||tieba-fe.cdn.bcebos.com^
