@@ -192,6 +192,8 @@
 ||*.online-cmcc.cn^
 ||*.miguvideo.com^
 ||dm.wo.com.cn^
+||third.app.coc.10086.cn^
+||wap.fj.10086.cn^
 # taobao
 ||ilce.alicdn.com^
 ||*.cloudvideocdn.taobao.com^
