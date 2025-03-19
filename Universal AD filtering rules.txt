@@ -162,6 +162,10 @@
 ||boss.hdslb.com^
 ||bimp.hdslb.com^
 ||*.chat.bilibili.com^
+||s1.hdslb.com^
+||i1.hdslb.com^
+||i2.hdslb.com^
+||*.tdnsstic1.cn^
 # Tik Tok
 ||*.douyincdn.com^
 ||*.dailygn.com^
