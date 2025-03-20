@@ -1,7 +1,7 @@
 # Title:Universal AD filtering rules
 # -------------------------------------
 # time date 2025.3.2
-# Total lines: 213
+# Total lines: 222
 # Version: 1.0.2
 ----------------------------------------
 # Google
@@ -70,6 +70,9 @@
 ||api.start.qq.com^
 ||cloud.tgpa.qq.com^
 ||cwebapi.start.qq.com^
+||*.dcloud.net.cn^
+||hc.tdm.qq.com^
+||dldir1.qq.com^
 # weixin
 ||*.wxqcloud.qq.com^
 ||dldir1v6.qq.com^
@@ -242,7 +245,6 @@
 ||*.market.xiaomi.com^
 ||sdkconfig.xiaomi.com^
 ||xiaoapi.cn^
-||*.dcloud.net.cn^
 # vivo
 ||vcode-od.vivo.com.cn^
 ||wifi.vivo.com.cn^
