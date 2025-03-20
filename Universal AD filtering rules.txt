@@ -241,6 +241,8 @@
 ||*.micloud.xiaomi.net^
 ||*.market.xiaomi.com^
 ||sdkconfig.xiaomi.com^
+||xiaoapi.cn^
+||*.dcloud.net.cn^
 # vivo
 ||vcode-od.vivo.com.cn^
 ||wifi.vivo.com.cn^
