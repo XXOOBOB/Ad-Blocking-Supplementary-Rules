@@ -1,7 +1,7 @@
 # Title:Universal AD filtering rules
 # -------------------------------------
-# time date 2025.3.20
-# Total lines: 222
+# time date 2025.3.22
+# Total lines: 230
 # Version: 1.0.2
 ----------------------------------------
 # Google
@@ -23,6 +23,7 @@
 ||*.mm.bing.net^
 ||www2.bing.com^
 ||*.cn.bing.net^
+||*.explicit.bing.net^
 # QQ Music
 ||p2p.qq.com^
 ||otheve.beacon.qq.com^
@@ -46,6 +47,7 @@
 ||*.sginput.qq.com^
 ||y.gtimg.cn^
 ||ts.qq.com^
+||*.release.qq.com^
 # QQ
 ||wup.imtt.qq.com^
 ||yun-hl.3g.qq.com^
@@ -66,6 +68,7 @@
 ||beizi.biz^
 ||tpstelemetry.tencent.com^
 ||*.map.qq.com^
+||*.imtt.qq.com^
 # START
 ||api.start.qq.com^
 ||cloud.tgpa.qq.com^
@@ -197,6 +200,7 @@
 ||dm.wo.com.cn^
 ||third.app.coc.10086.cn^
 ||wap.fj.10086.cn^
+||*.yksdks.com^
 # taobao
 ||ilce.alicdn.com^
 ||*.cloudvideocdn.taobao.com^
@@ -246,6 +250,7 @@
 ||sdkconfig.xiaomi.com^
 ||xiaoapi.cn^
 ||account.xiaomi.com^
+||*.mi.com^
 # vivo
 ||vcode-od.vivo.com.cn^
 ||wifi.vivo.com.cn^
