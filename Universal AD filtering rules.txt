@@ -1,7 +1,7 @@
 # Title:Universal AD filtering rules
 # -------------------------------------
-# time date 2025.3.22
-# Total lines: 233
+# time date 2025.3.23
+# Total lines: 237
 # Version: 1.0.2
 ----------------------------------------
 # Google
@@ -70,6 +70,8 @@
 ||tpstelemetry.tencent.com^
 ||*.map.qq.com^
 ||*.imtt.qq.com^
+||*.rconfig.qq.com^
+||ping.cloud.tencent.com^
 # START
 ||api.start.qq.com^
 ||cloud.tgpa.qq.com^
@@ -98,7 +100,7 @@
 ||*.reg.163.com^
 ||*.yunxinfw.com^
 ||notify.music.163.com^
-||interface3.music.163.com.163jiasu.com^
+||interface*.music.163.com^
 # Huya Live
 ||*.cdn.huya.com^
 ||liveapi.huya.com^
@@ -270,6 +272,7 @@
 ||*.shouji.sogou.com^
 ||gateway.sogou.com^
 ||*.get.sogou.com^
+||wap.sogou.com^
 # Ali
 ||*.alicdn.com^
 ||dypnsapi.aliyuncs.com^
@@ -278,3 +281,5 @@
 ||tieba-fe.cdn.bcebos.com^
 # other
 ||*.ogjoxfz.com^
+||*.dnsv1.com^
+||*.revincx.icu^
