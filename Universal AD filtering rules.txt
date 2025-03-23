@@ -256,6 +256,7 @@
 ||xiaoapi.cn^
 ||account.xiaomi.com^
 ||*.mi.com^
+||*.mi-img.com^
 # vivo
 ||vcode-od.vivo.com.cn^
 ||wifi.vivo.com.cn^
