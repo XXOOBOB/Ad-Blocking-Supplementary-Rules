@@ -49,6 +49,9 @@
 ||*.release.qq.com^
 ||*.360ra.net^
 ||*.tdos.qq.com^
+||*.tcdn.qq.com^
+||*.tencent-cloud.net^
+||*.tencent.com^
 # QQ
 ||wup.imtt.qq.com^
 ||yun-hl.3g.qq.com^
@@ -259,6 +262,7 @@
 ||account.xiaomi.com^
 ||*.mi.com^
 ||*.mi-img.com^
+||md.khkj.xyz^
 # vivo
 ||vcode-od.vivo.com.cn^
 ||wifi.vivo.com.cn^
@@ -279,6 +283,13 @@
 # tieba
 ||tiebapic.baidu.com^
 ||tieba-fe.cdn.bcebos.com^
+# Baidu Translate
+||sofire-dr.baidu.com^
+||userident.baidu.com^
+||bz-ipdx.baidu.com^
+||ads-sdk-api.ranfenghd.com^
+||pn.baidu.com^
+||update.baidu.com^
 # other
 ||*.ogjoxfz.com^
 ||*.dnsv1.com^
