@@ -12,6 +12,7 @@
 ||android.apis.google.com^
 ||*.googleapis.com^
 ||clients2.google.com^
+||*.clients.google.com^
 # Microsoft
 # Baidu
 ||fclick.baidu.com^
@@ -76,6 +77,8 @@
 ||*.dcloud.net.cn^
 ||hc.tdm.qq.com^
 ||dldir1.qq.com^
+||cpc.start.qq.com^
+||cgservice.start.qq.com^
 # weixin
 ||*.wxqcloud.qq.com^
 ||dldir1v6.qq.com^
@@ -94,6 +97,7 @@
 ||crash.163.com^
 ||*.reg.163.com^
 ||*.yunxinfw.com^
+||notify.music.163.com^
 ||interface3.music.163.com.163jiasu.com^
 # Huya Live
 ||*.cdn.huya.com^
@@ -174,6 +178,7 @@
 ||i1.hdslb.com^
 ||i2.hdslb.com^
 ||*.tdnsstic1.cn^
+||space.bilibili.com^
 # Tik Tok
 ||*.douyincdn.com^
 ||*.dailygn.com^
