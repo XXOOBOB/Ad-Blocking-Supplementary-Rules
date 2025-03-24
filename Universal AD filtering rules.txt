@@ -52,6 +52,11 @@
 ||*.tcdn.qq.com^
 ||*.tencent-cloud.net^
 ||*.tencent.com^
+||ugcup.music.qq.com^
+||i2-cname.y.qq.com^
+||c6.y.qq.com^
+||shugcup.music.qq.com^
+||wnsmusic.qq.com^
 # QQ
 ||wup.imtt.qq.com^
 ||yun-hl.3g.qq.com^
