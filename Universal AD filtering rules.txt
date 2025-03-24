@@ -1,7 +1,7 @@
 # Title:Universal AD filtering rules
 # -------------------------------------
-# time date 2025.3.23
-# Total lines: 237
+# time date 2025.3.24
+# Total lines: 242
 # Version: 1.0.2
 ----------------------------------------
 # Google
@@ -11,6 +11,7 @@
 ||android.apis.google.com^
 ||*.googleapis.com^
 ||*clients*.google.com^
+||*l.google.com^
 # Microsoft
 # Baidu
 ||fclick.baidu.com^
@@ -299,3 +300,4 @@
 ||*.ogjoxfz.com^
 ||*.dnsv1.com^
 ||*.revincx.icu^
+||*.jomoxc.com^
