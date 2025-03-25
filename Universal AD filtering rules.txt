@@ -268,7 +268,6 @@
 ||account.xiaomi.com^
 ||*.mi.com^
 ||*.mi-img.com^
-||md.khkj.xyz^
 # vivo
 ||vcode-od.vivo.com.cn^
 ||wifi.vivo.com.cn^
