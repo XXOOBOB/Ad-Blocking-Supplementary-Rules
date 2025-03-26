@@ -84,8 +84,6 @@
 ||api.start.qq.com^
 ||cloud.tgpa.qq.com^
 ||cwebapi.start.qq.com^
-||*.dcloud.net.cn^
-||hc.tdm.qq.com^
 ||dldir1.qq.com^
 ||cpc.start.qq.com^
 ||cgservice.start.qq.com^
