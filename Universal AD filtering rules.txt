@@ -51,7 +51,6 @@
 ||*.360ra.net^
 ||*.tdos.qq.com^
 ||*.tcdn.qq.com^
-||*.tencent-cloud.net^
 ||*.tencent.com^
 ||ugcup.music.qq.com^
 ||i2-cname.y.qq.com^
@@ -85,6 +84,8 @@
 ||cloud.tgpa.qq.com^
 ||cwebapi.start.qq.com^
 ||dldir1.qq.com^
+||*.dcloud.net.cn^
+||hc.tdm.qq.com^
 ||cpc.start.qq.com^
 ||cgservice.start.qq.com^
 # weixin
