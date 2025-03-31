@@ -1,6 +1,6 @@
 # Title:Universal AD filtering rules
 # -------------------------------------
-# time date 2025.3.24
+# time date 2025.4.1
 # Total lines: 242
 # Version: 1.0.2
 ----------------------------------------
@@ -183,10 +183,8 @@
 ||boss.hdslb.com^
 ||bimp.hdslb.com^
 ||*.chat.bilibili.com^
-||s1.hdslb.com^
-||i1.hdslb.com^
-||i2.hdslb.com^
-||*.tdnsstic1.cn^
+||*1.hdslb.com^
+||*2.hdslb.com^
 ||space.bilibili.com^
 # Tik Tok
 ||*.douyincdn.com^
