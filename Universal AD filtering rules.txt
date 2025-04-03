@@ -51,7 +51,6 @@
 ||*.360ra.net^
 ||*.tdos.qq.com^
 ||*.tcdn.qq.com^
-||*.tencent.com^
 ||ugcup.music.qq.com^
 ||i2-cname.y.qq.com^
 ||c6.y.qq.com^
