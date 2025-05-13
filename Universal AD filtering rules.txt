@@ -24,7 +24,6 @@
 ||www2.bing.com^
 ||*.cn.bing.net^
 ||*.explicit.bing.net^
-||china.bing123.com^
 # QQ Music
 ||p2p.qq.com^
 ||otheve.beacon.qq.com^
