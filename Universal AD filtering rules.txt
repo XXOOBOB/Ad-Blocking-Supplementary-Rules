@@ -19,6 +19,7 @@
 ||gips*.baidu.com^
 ||sp*.baidu.com^
 ||imgsa.baidu.com^
+||tanbi.baidu.com^
 # BiYing
 ||*.mm.bing.net^
 ||www2.bing.com^
