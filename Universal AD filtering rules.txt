@@ -1,7 +1,7 @@
 # Title:Universal AD filtering rules
 # -------------------------------------
 # time date 2025.5.6
-# Total lines: 272
+# Total lines: 268
 # Version: 1.0.2
 ----------------------------------------
 # Google
@@ -24,6 +24,7 @@
 ||www2.bing.com^
 ||*.cn.bing.net^
 ||*.explicit.bing.net^
+||china.bing123.com^
 # QQ Music
 ||p2p.qq.com^
 ||otheve.beacon.qq.com^
