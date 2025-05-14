@@ -195,6 +195,7 @@
 ||v*.douyinvod.com^
 ||ndcpp.com^
 ||n*.douyinvod.com^
+||*.cjjd14.com^
 # 58 cities
 # 10086
 ||*.cmcc-cs.cn^
