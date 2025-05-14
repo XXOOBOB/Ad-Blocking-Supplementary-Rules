@@ -190,12 +190,11 @@
 ||*.dailygn.com^
 ||*.bytegecko.com^
 ||*.douyinliving.com^
-||v3-a.douyinvod.com^
-||v95-bjb-a.douyinvod.com^
-||v11-x.douyinvod.com^
 ||api26-core-lq.amemv.com^
-||v11-cold1.douyinvod.com^
-||v5-gz-a.douyinvod.com^
+||p*.douyinpic.com^
+||v*.douyinvod.com^
+||ndcpp.com^
+||n*.douyinvod.com^
 # 58 cities
 # 10086
 ||*.cmcc-cs.cn^
